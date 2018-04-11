@@ -1,0 +1,58 @@
+head {}
+
+body {
+  font-family: "Segoe UI", "Verdana", sans-serif;
+  background-color: white;
+  padding-left: 30px;
+  text-align: justify;
+}
+
+h1 {
+  color: #f45531;
+}
+
+h2 {}
+
+h3 {}
+
+.navBar {
+  float: left;
+}
+
+.content {
+  width: 100%;
+}
+
+.info {
+  float: right;
+  width: 40%;
+}
+
+p {
+  color: #21ce99;
+  font-size: 1.2em;
+  font-weight: 500
+}
+
+a {
+  text-decoration: none;
+  color: #f45531;
+  font-size: 1.3em;
+  font-weight: 500;
+  padding-right: 15px;
+}
+ul {
+  text-decoration: none;
+  color: #f45531;
+  font-size: 1.3em;
+  font-weight: 500;
+}
+a:link {}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {}
+
+a:active {}
