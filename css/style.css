@@ -7,13 +7,16 @@ body {
   text-align: justify;
 }
 #totalWindow {
-  width: 100%;
+  width: auto;
+  max-width: 99%;
 }
 h1 {
   color: white;
 }
 
-h2 {}
+h2 {
+  color: white;
+}
 
 h3 {}
 img {
